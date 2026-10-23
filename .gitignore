@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec.bak
+tests_*.py
+
+# 运行数据（绝不入库）
+*.json.tmp
+
+# 本地分析工作区
+re-jx3v10/
